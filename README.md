@@ -24,7 +24,7 @@ tb.events.on("loaded", function() {
 ## How to use
 + Open a tributary inlet
 + Make an infinite loop
-+ Get Halted
++ Get Halted (well, not yet, but soon)
 
 ## How it works
 
