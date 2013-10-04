@@ -1,0 +1,8 @@
+{
+  "id": "halting"
+, "description": "stopping infinite loops (and some finite) since 2013"
+, "url": "/static/plugins/tb-halting-plugin"
+, "js": "index.js"
+, "html": "index.html"
+, "css": "style.css"
+}
