@@ -13,7 +13,7 @@ function tributaryHaltingPlugin(tributary, plugin) {
       text = cm.lineInfo(change.to.line).text
       hit = matchLoops(text)
       if (hit) {
-        console.log("DANGER DANGER " + hit.index);
+        console.log("DANGER DANGER " + change.to.line + " " + hit.index);
       }
     });
   }
